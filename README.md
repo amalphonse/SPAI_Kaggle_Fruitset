@@ -1,4 +1,4 @@
-# SPAI_Kaggle_Fruitset
+# SPAIC_Kaggle_Fruitset
 To work on the Kaggle Fruit 360 data set for SPAIC Facebook challenge
 
 This is a group project for Secure and Private AI Challenge by Udacity and Facebook.
